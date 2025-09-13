@@ -1,4 +1,4 @@
-// YOUR NAME HERE
+// David Janney
 
 #include "permutations.h"
 #include "randint.h"
