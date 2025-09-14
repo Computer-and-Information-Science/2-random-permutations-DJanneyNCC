@@ -2,7 +2,7 @@
 
 ## Approach to the Problem
 
-I started off by trying to understand all of the code to the point where I lost track of the important stuff. I decided to take a step back (and put this off for way too long) before deciding to click on every resource available in brightspace and read them carefully. I used the Random Permutations Notes to guide me to accomplish the goals without having to decypher the very simplified (both its best and worst quality) book.
+I started off by trying to understand all of the code to the point where I lost track of the important stuff. I decided to take a step back (and put this off for way too long) before deciding to click on every resource available in brightspace and read them carefully. I used the Random Permutations Notes to guide me to accomplish the goals without having to decypher the very simplified (both its best and worst quality) instructions in the book.
 
 ## Techniques Used
 
