@@ -7,7 +7,7 @@ Your response here...
 ## Techniques Used
 
 * using the "static size_t search" as a template for the permutations
-* using a different compiler to quickly implement and test changes without accidentally erasing progress in GitHub
+* using a different compiler to implement and test changes without accidentally erasing GitHub progress (my most common mistake)
   * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
 
 ## Challenges Encountered
