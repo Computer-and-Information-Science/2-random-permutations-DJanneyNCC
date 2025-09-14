@@ -10,7 +10,9 @@ Your response here...
 
 ## Challenges Encountered
 
-Your response here...
+* not knowing where or how to start
+  * rereading the textbook
+  * checking the Random Permutations Notes (I forgot about that)
 
 ## Conclusions
 
