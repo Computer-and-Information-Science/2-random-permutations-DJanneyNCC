@@ -24,7 +24,10 @@ static size_t search (const int array[], size_t size, int target) {
 }
 
 void permutations1 (int array[], size_t size) {
-    for (
+    for (int i = 0; i < size; i++) {
+        
+    }
+    
     // TODO: Implement algorithm #1 here
 }
 
