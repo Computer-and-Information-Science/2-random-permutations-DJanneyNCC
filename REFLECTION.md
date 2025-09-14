@@ -9,15 +9,15 @@ I started off by trying to understand all of the code to the point where I lost 
 * using the "static size_t search" as a template for the permutations
 * using a different compiler to implement and test changes without accidentally erasing GitHub progress (my most common mistake)
   * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
-* using a different compiler because the GitHub one stopped working
-   * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler) (again)
 
 ## Challenges Encountered
 
 * not knowing where or how to start
   * rereading the textbook
   * checking the Random Permutations Notes (I forgot about that)
-
+* using a different compiler because the GitHub one stopped working
+   * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler) (again)
+   * 
 ## Conclusions
 
 Your response here...
