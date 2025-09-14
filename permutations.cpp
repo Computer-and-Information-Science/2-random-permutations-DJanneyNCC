@@ -27,7 +27,7 @@ void permutations1 (int array[], size_t size) {
     for (int i = 0; i < size; i++) {
         int rand_num1; // random number for permutation 1 (maybe rand_num rename???)
         do {
-            rand_num1 = randint(// set perameters so you dont get 10000000000000 lol
+            rand_num1 = randint(1, size) // this is how it works in Python so imma leave it like this for a bit
         }
         while {
             // search for rand_num1
