@@ -6,7 +6,7 @@ Your response here...
 
 ## Techniques Used
 
-Your response here...
+* using the "static size_t search" as a template for the permutations
 
 ## Challenges Encountered
 
