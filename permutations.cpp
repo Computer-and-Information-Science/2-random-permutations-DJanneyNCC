@@ -34,7 +34,7 @@ void permutations1 (int array[], size_t size) {
         }
     }
     
-    // TODO: Implement algorithm #1 here
+    // uncomplete
 }
 
 void permutations2 (int array[], size_t size) {
