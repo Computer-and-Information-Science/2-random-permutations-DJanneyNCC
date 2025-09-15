@@ -55,6 +55,8 @@ void permutations3 (int array[], size_t size) {
     }
     /*
     for (i to n-1) {
+        j = randint (1, size);
         
+        std::swap array[i] array[j]
     }*/
 }
