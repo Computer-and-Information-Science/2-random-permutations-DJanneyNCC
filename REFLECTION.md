@@ -1,4 +1,4 @@
-# Assignment 2 Reflection - YOUR NAME HERE
+# Assignment 2 Reflection - David Janney
 
 ## Approach to the Problem
 
