@@ -2,7 +2,10 @@
 
 ## Algorithm 1
 
-Your test results and analysis here...
+5000 - 0.15s
+10000 - 0.64s
+20000 - 2.61s
+40000 - 8.68s
 
 ## Algorithm 2
 
