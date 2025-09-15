@@ -25,12 +25,12 @@ static size_t search (const int array[], size_t size, int target) {
 
 void permutations1 (int array[], size_t size) {
     for (int i = 0; i < size; i++) {
-        int rand_num1; // random number for permutation 1
+        int ran; // random number for permutation 1
         do {
-            rand_num1 = randint (1, size); // random number from 1 to the input
+            ran = randint (1, size); // 
         }
-        while (search (array, i, rand_num1) < i);
-        array[i] = rand_num1;
+        while (search (array, i, ran) < i);
+        array[i] = ran;
     }
 }
 
@@ -38,13 +38,15 @@ void permutations2 (int array[], size_t size) {
     bool *used = new bool[size](); // new bool from RPA in class materials
     
     for (int i = 0; i < size; i++) { // NOT MODIFIED YET!!!!!!!!
-        int rand_num1; // random number for permutation 1
+        int ran; // random number for permutation 2
         do {
-            rand_num1 = randint (1, size); // random number from 1 to the input
+            ran = randint (1, size); // 
         }
-        while (search (array, i, rand_num1) < i);
-        array[i] = rand_num1;
+        while (used[ran - 1] == true);
+        array[i] = ran;
+        used[ran - 1] = true;
     }
+    delete[] used; // deletes the array
 }
 
 void permutations3 (int array[], size_t size) {
