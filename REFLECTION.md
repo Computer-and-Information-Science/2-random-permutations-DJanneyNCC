@@ -24,4 +24,4 @@ I started off by trying to understand all of the code to the point where I lost 
 
 ## Conclusions
 
-Your response here...
+In conclusion, algorithms can be done many ways. I learned that the larger an algorithm, the harder it is to randomly stumble across a new variable, and that searching a single spot in a bool array is much quicker than searching an entire array, spot by spot.
