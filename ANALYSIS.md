@@ -2,6 +2,8 @@
 
 ## Algorithm 1
 
+Big-Oh - $O(N^2)$ (may have to run through all possibilities at some points, checks everyhing)
+
 5000 - 0.15s
 
 10000 - 0.64s
@@ -11,6 +13,8 @@
 40000 - 8.68s
 
 ## Algorithm 2
+
+Big-Oh - $O(N)$ or $O(N^2)$ (may have to run through all possibilities at some points, checks only one value)
 
 100000 - 0.02s
 
@@ -27,6 +31,8 @@
 6400000 - 1.68s
 
 ## Algorithm 3
+
+Big-Oh - $O(N)$ (simple swap, can't fail)
 
 500000 - 0.01s
 
