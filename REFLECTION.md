@@ -9,6 +9,7 @@ I started off by trying to understand all of the code to the point where I lost 
 * using the "static size_t search" as a template for the permutations
 * using a different compiler to implement and test changes without accidentally erasing GitHub progress (my most common mistake)
   * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
+* using Algorithm 1 as a template for Algorithm 2
 
 ## Challenges Encountered
 
@@ -17,7 +18,8 @@ I started off by trying to understand all of the code to the point where I lost 
   * checking the Random Permutations Notes (I forgot about that)
 * using a different compiler because the GitHub one stopped working
    * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler) (again)
-   * 
+   * reading the GitHub console once I figured out I could do that (you should have an email from me related to that)
+ 
 ## Conclusions
 
 Your response here...
