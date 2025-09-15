@@ -12,8 +12,32 @@
 
 ## Algorithm 2
 
-Your test results and analysis here...
+100000 - 
+
+200000 - 
+
+400000 - 
+
+800000 - 
+
+1600000 - 
+
+3200000 - 
+
+6400000 - 
 
 ## Algorithm 3
 
-Your test results and analysis here...
+500000 - 
+
+1000000 - 
+
+2000000 - 
+
+4000000 - 
+
+8000000 - 
+
+16000000 - 
+
+32000000 - 
