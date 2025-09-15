@@ -19,7 +19,9 @@ I started off by trying to understand all of the code to the point where I lost 
 * using a different compiler because the GitHub one stopped working
    * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler) (again)
    * reading the GitHub console once I figured out I could do that (you should have an email from me related to that)
- 
+* swapping arrays
+   * attempted using [GeeksforGeeks](https://www.geeksforgeeks.org/cpp/quickly-swap-two-arrays-size-c/), used a different method I learned from an onlice C++ tutorial I watched a long time ago instead
+
 ## Conclusions
 
 Your response here...
