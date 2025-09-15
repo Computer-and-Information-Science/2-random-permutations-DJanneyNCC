@@ -50,13 +50,16 @@ void permutations2 (int array[], size_t size) {
 }
 
 void permutations3 (int array[], size_t size) {
+    int k; // for later use as a temporary variable
+    
     for (int i = 0; i < size; i++) {
-        array[i] = (i + 1);
+        array[i] = (i + 1); // sets the array to (1, 2,..., n)
     }
-    /*
-    for (i to n-1) {
-        j = randint (1, size);
-        
-        std::swap array[i] array[j]
-    }*/
+    
+    for (int i = 0; i < size; i++) {
+        int j = randint (1, size);
+        k = array[i]; // puts i in k
+        array[i] = array[j]; // puts j in i
+        array[j] = k; // puts k in j, completing the cycle
+    }
 }
