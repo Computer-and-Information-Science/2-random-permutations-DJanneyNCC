@@ -27,7 +27,7 @@ void permutations1 (int array[], size_t size) {
     for (int i = 0; i < size; i++) {
         int rand_num1; // random number for permutation 1
         do {
-            rand_num1 = randint (1, size); // 
+            rand_num1 = randint (1, size); // random number from 1 to the input
         }
         while (search (array, i, rand_num1) < i);
         array[i] = rand_num1;
@@ -35,7 +35,16 @@ void permutations1 (int array[], size_t size) {
 }
 
 void permutations2 (int array[], size_t size) {
-    // TODO: Implement algorithm #2 here
+    bool *used = new bool[size](); // new bool from RPA in class materials
+    
+    for (int i = 0; i < size; i++) { // NOT MODIFIED YET!!!!!!!!
+        int rand_num1; // random number for permutation 1
+        do {
+            rand_num1 = randint (1, size); // random number from 1 to the input
+        }
+        while (search (array, i, rand_num1) < i);
+        array[i] = rand_num1;
+    }
 }
 
 void permutations3 (int array[], size_t size) {
